@@ -1,5 +1,1 @@
-# sc-clothing
-
-# e-commerce website for sc-clothing business
-
-# this website is created using React
+This is a portfolio project only and doesn't have a functionality to process a real-time transaction
