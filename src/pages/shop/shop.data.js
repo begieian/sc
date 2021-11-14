@@ -13,63 +13,63 @@ const SHOP_DATA = [
         name: 'Brown Brim',
         imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
         // price: 25,
-        price: 1269.99
+        price: 1269
       },
       {
         id: 2,
         name: 'Blue Beanie',
         imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
         // price: 18,
-        price: 920.99
+        price: 920
       },
       {
         id: 3,
         name: 'Brown Cowboy',
         imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
         // price: 35,
-        price: 1776.99
+        price: 1776
       },
       {
         id: 4,
         name: 'Grey Brim',
         imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
         // price: 25,
-        price: 1269.99
+        price: 1269
       },
       {
         id: 5,
         name: 'Green Beanie',
         imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
         // price: 18,
-        price: 920.99
+        price: 920
       },
       {
         id: 6,
         name: 'Palm Tree Cap',
         imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
         // price: 14,
-        price: 710.99
+        price: 710
       },
       {
         id: 7,
         name: 'Red Beanie',
         imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
         // price: 18,
-        price: 920.99
+        price: 920
       },
       {
         id: 8,
         name: 'Wolf Cap',
         imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
         // price: 14,
-        price: 710.99
+        price: 710
       },
       {
         id: 9,
         name: 'Blue Snapback',
         imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
         // price: 16,
-        price: 812.99
+        price: 812
       }
     ]
   },
@@ -83,56 +83,56 @@ const SHOP_DATA = [
         name: 'Adidas NMD',
         imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
         // price: 220,
-        price: 11170.99
+        price: 11170
       },
       {
         id: 11,
         name: 'Adidas Yeezy',
         imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
         // price: 280,
-        price: 14214.99
+        price: 14214
       },
       {
         id: 12,
         name: 'Black Converse',
         imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
         // price: 110,
-        price: 5584.99
+        price: 5584
       },
       {
         id: 13,
         name: 'Nike White AirForce',
         imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
         // price: 160,
-        price: 8122.99
+        price: 8122
       },
       {
         id: 14,
         name: 'Nike Red High Tops',
         imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
         // price: 160,
-        price: 8122.99
+        price: 8122
       },
       {
         id: 15,
         name: 'Nike Brown High Tops',
         imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
         // price: 160,
-        price: 8122.99
+        price: 8122
       },
       {
         id: 16,
         name: 'Air Jordan Limited',
         imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
         // price: 190,
-        price: 9645.99
+        price: 9645
       },
       {
         id: 17,
         name: 'Timberlands',
         imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
         // price: 200,
-        price: 10153.99
+        price: 10153
       }
     ]
   },
@@ -146,35 +146,35 @@ const SHOP_DATA = [
         name: 'Black Jean Shearling',
         imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
         // price: 125,
-        price: 6345.99
+        price: 6345
       },
       {
         id: 19,
         name: 'Blue Jean Jacket',
         imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
         // price: 90,
-        price: 4568.99
+        price: 4568
       },
       {
         id: 20,
         name: 'Grey Jean Jacket',
         imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
         // price: 90,
-        price: 4568.99
+        price: 4568
       },
       {
         id: 21,
         name: 'Brown Shearling',
         imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
         // price: 165,
-        price: 8376.99
+        price: 8376
       },
       {
         id: 22,
         name: 'Tan Trench',
         imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
         // price: 185,
-        price: 9391.99
+        price: 9391
       }
     ]
   },
@@ -188,49 +188,49 @@ const SHOP_DATA = [
         name: 'Blue Tanktop',
         imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
         // price: 25,
-        price: 1269.99
+        price: 1269
       },
       {
         id: 24,
         name: 'Floral Blouse',
         imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
         // price: 20,
-        price: 1015.99
+        price: 1015
       },
       {
         id: 25,
         name: 'Floral Dress',
         imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
         // price: 80,
-        price: 4061.99
+        price: 4061
       },
       {
         id: 26,
         name: 'Red Dots Dress',
         imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
         // price: 80,
-        price: 4061.99
+        price: 4061
       },
       {
         id: 27,
         name: 'Striped Sweater',
         imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
         // price: 45,
-        price: 2284.99
+        price: 2284
       },
       {
         id: 28,
         name: 'Yellow Track Suit',
         imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
         // price: 135,
-        price: 6853.99
+        price: 6853
       },
       {
         id: 29,
         name: 'White Blouse',
         imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
         // price: 20,
-        price: 1015.99
+        price: 1015
       }
     ]
   },
@@ -244,7 +244,7 @@ const SHOP_DATA = [
         name: 'Camo Down Vest',
         imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
         // price: 325,
-        price: 16499.99
+        price: 16499
       },
       {
         id: 31,
